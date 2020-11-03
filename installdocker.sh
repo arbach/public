@@ -33,4 +33,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-
 sudo chmod +x /usr/local/bin/docker-compose
 
 
-sudo apt-get install openjdk-11-jdk
+sudo apt-get install openjdk-11-jdk -y
